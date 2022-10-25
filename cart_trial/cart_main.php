@@ -5,7 +5,7 @@
 .button {
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 8px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -14,7 +14,8 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #008CBA; float: left} /* Blue */
+.button1 {background-color: darkgreen; float: left} /* Blue */
+
 </style>
 
 </head>
@@ -39,14 +40,16 @@
         <a class="nav-link" href="#">Contact Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Disabled</a>
+        <form action="cart_cart.php">
+<button type="submit" class="button button1"> Cart </button>
+</form>
       </li>
     </ul>
   </div>
 </nav>
 
 <form action="cart_cart.php">
-<button type="submit" class="button button1"> Cart </button>
+<button type="submit" class="btn btn-primary btn-lg"> Cart </button>
 </form>
 
 
@@ -89,15 +92,15 @@
 
 
 <div class="col-lg-3">
-<form>
+<form action="cart_add.php" method="POST">
 <div class="card" style="width: 15rem;">
   <img class="card-img-top" src="images/orange1.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Orange </h5>
     <p class="card-text">Price: 90</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
-    <input type="hidden" name="item_name" value="Orange">
-    <input type="hidden" name="item_price" value="90">
+    <input type="hidden" name="pro_name" value="Orange">
+    <input type="hidden" name="pro_price" value="90">
   </div>
 </div>
 </form>
@@ -105,15 +108,15 @@
 
 
 <div class="col-lg-3">
-<form>
+<form action="cart_add.php" method="POST">
 <div class="card" style="width: 15rem;">
   <img class="card-img-top" src="images/strawberry.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Strawberry </h5>
     <p class="card-text">Price: 120</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
-    <input type="hidden" name="item_name" value="Strawberry">
-    <input type="hidden" name="item_price" value="120">
+    <input type="hidden" name="pro_name" value="Strawberry">
+    <input type="hidden" name="pro_price" value="120">
   </div>
 </div>
 </form>
