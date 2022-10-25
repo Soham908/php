@@ -1,0 +1,41 @@
+body{   
+    background: #228cdc;  
+}  
+
+.container{
+text-align:centre
+}
+
+
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}      
+
+#frm1{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}   
+
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}
+
+#btn2{
+    color: black;
+    background-color: lightblue;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;
+}
