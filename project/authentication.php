@@ -1,4 +1,5 @@
 <?php
+session_start();
 
 include('connection_file.php');
 $username = $_POST['user'];
@@ -6,7 +7,8 @@ $password = $_POST['pass'];
 
 $username = stripcslashes($username);  
 $password = stripcslashes($password);  
-	  
+
+$_SESSION['username'] = $username;	  
 
 $sql = "select * from login_info where user_name = '$username' and password ='$password' ";
 $result = mysqli_query($conn,$sql);
@@ -19,7 +21,7 @@ header("location: homepage.php");
 }
 else
 {
-echo "login failed try again";
+header("location: login.php");
 }
 
 
