@@ -1,7 +1,11 @@
 <?php  include('fetch_name.php'); ?>
 <html>
 <head>
+<title> Minimalist Grocer </title>
+
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <style>
 .button {
   border: none;
@@ -15,7 +19,7 @@
   cursor: pointer;
 }
 
-.button1 {background-color: darkgreen; float: left} /* Blue */
+.button1 {background-color: transparent; float: left; height: 30px;} /* Blue */
 
 </style>
 
@@ -60,11 +64,16 @@
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 <li class="nav-item">
         <form action="cart\cart_cart.php">
-<button type="submit" class="button button1">Cart </button>
+<button type="submit" class="button button1">Cart 
+<i class="fa fa-shopping-cart" style="font-size:24px"></i>
+</button>
 </form>
       </li>
 <li class="nav-item">
-<a class="nav-link" href="hc_milk.php"> Wecome <?php echo $name; ?></a>
+<a class="nav-link" href="homepage.php"> Wecome <?php echo $name; ?></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="truncate_cart.php"> Log Out </a>
 </li>
     </ul>
   </div>

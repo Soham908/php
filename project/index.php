@@ -85,7 +85,7 @@ background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 
 
  <p>
 <br>	
- Already a member <a href="login.php" class="sen1"> Click here </a>
+ Already a member? <a href="login.php" class="sen1"> Click here </a>
  </p>
 </form>
 </div>
