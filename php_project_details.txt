@@ -1,0 +1,20 @@
+in phpmyadmin
+
+create database
+name : grocery_db
+
+in database
+create tables
+name : cart_tb
+name : login_info
+
+in cart_tb
+create columns
+col1 : product_name
+col2 : product_price
+col3 : product_quantity
+
+in login_info
+create columns
+col1 : user_name
+col2 : password
