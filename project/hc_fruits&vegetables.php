@@ -97,10 +97,10 @@
   <img class="card-img-top" src="images/apple.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Apple </h5>
-    <p class="card-text">Price: 100</p>
+    <p class="card-text">Price: 125</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Apple">
-    <input type="hidden" name="pro_price" value="100">
+    <input type="hidden" name="pro_price" value="125">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -114,10 +114,10 @@
   <img class="card-img-top" src="images/banana1.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Banana </h5>
-    <p class="card-text">Price: 80</p>
+    <p class="card-text">Price: 40</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Banana">
-    <input type="hidden" name="pro_price" value="80">
+    <input type="hidden" name="pro_price" value="40">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -132,10 +132,10 @@
   <img class="card-img-top" src="images/orange.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Orange </h5>
-    <p class="card-text">Price: 90</p>
+    <p class="card-text">Price: 70</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Orange">
-    <input type="hidden" name="pro_price" value="90">
+    <input type="hidden" name="pro_price" value="70">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -149,10 +149,10 @@
   <img class="card-img-top" src="images/strawberry1.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Strawberry </h5>
-    <p class="card-text">Price: 120</p>
+    <p class="card-text">Price: 65</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Strawberry">
-    <input type="hidden" name="pro_price" value="120">
+    <input type="hidden" name="pro_price" value="65">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -171,10 +171,10 @@
   <img class="card-img-top" src="images/potatoes.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Potato </h5>
-    <p class="card-text">Price: 100</p>
+    <p class="card-text">Price: 60</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Potato">
-    <input type="hidden" name="pro_price" value="100">
+    <input type="hidden" name="pro_price" value="60">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -188,10 +188,10 @@
   <img class="card-img-top" src="images/onions.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Onion </h5>
-    <p class="card-text">Price: 80</p>
+    <p class="card-text">Price: 45</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Onion">
-    <input type="hidden" name="pro_price" value="80">
+    <input type="hidden" name="pro_price" value="45">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -206,10 +206,10 @@
   <img class="card-img-top" src="images/carrots.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Carrots </h5>
-    <p class="card-text">Price: 90</p>
+    <p class="card-text">Price: 80</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Carrots">
-    <input type="hidden" name="pro_price" value="90">
+    <input type="hidden" name="pro_price" value="80">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
@@ -223,10 +223,10 @@
   <img class="card-img-top" src="images/cabbage.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Cabbage </h5>
-    <p class="card-text">Price: 120</p>
+    <p class="card-text">Price: 40</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Cabbage">
-    <input type="hidden" name="pro_price" value="120">
+    <input type="hidden" name="pro_price" value="40">
     <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>

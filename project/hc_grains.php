@@ -94,10 +94,10 @@
   <img class="card-img-top" src="images/wheat.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Wheat </h5>
-    <p class="card-text">Price: 80</p>
+    <p class="card-text">Price: 30</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Wheat">
-    <input type="hidden" name="pro_price" value="80">
+    <input type="hidden" name="pro_price" value="30">
     <input type="hidden" name="address" value="..\hc_grains.php">
   </div>
 </div>
@@ -130,10 +130,10 @@
   <img class="card-img-top" src="images/Oats.jpg" alt="Card image cap" width="500" height="150">
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Oats </h5>
-    <p class="card-text">Price: 90</p>
+    <p class="card-text">Price: 95</p>
     <button type="submit" class="btn btn-info"> Add to cart </button>
     <input type="hidden" name="pro_name" value="Oats">
-    <input type="hidden" name="pro_price" value="90">
+    <input type="hidden" name="pro_price" value="95">
     <input type="hidden" name="address" value="..\hc_grains.php">
   </div>
 </div>
