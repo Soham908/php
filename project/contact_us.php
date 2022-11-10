@@ -68,9 +68,9 @@ text-align: center;
 
 
 <br><br>
-<h3> Contact Us page </h3>
-<p> Our contact number: 911 </p>
-<p> Please do not contact us </p>
+<h2> Contact Us page </h2>
+<p><h5> Our contact number: 911 </h5></p>
+<p><h5> Please do not contact us </h5></p>
 
 
 

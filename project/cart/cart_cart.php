@@ -68,7 +68,7 @@ img {
 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 
 <li class="nav-item">
-<a class="nav-link" href="homepage.php"> Wecome <?php echo $name; ?></a>
+<a class="nav-link" href="..\homepage.php"> Wecome <?php echo $name; ?></a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="..\truncate_cart.php"> Log Out </a>
@@ -164,7 +164,32 @@ if($result_rows > 0)
 </td>
 </tr>
 <tr>
-<td></td><td></td><td></td><td></td><td></td><td></td>
+<td></td><td>Discount</td><td></td><td></td>
+<td>
+<?php 
+$percent = 0.2;
+if($total_sum>20){
+$discount_price = $total_sum * $percent; 
+echo $discount_price;
+}
+else
+echo "0";
+?>
+</td>
+<td></td><td></td>
+</tr>
+<tr>
+<td></td><td>Discounted Price</td><td></td><td></td>
+<td>
+<?php
+if($total_sum>20)
+{
+echo $total_sum - $discount_price;
+}
+?>
+
+</td>
+<td></td>
 <td>
 <form action="cart_checkout_details.php" method="POST">
 <button name="c1" type="submit" class="btn btn-info btn-md"> Checkout </button>

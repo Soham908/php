@@ -98,9 +98,6 @@ text-align: left;
   <h5 class"card-title text-center"> Fruits and Vegetables </h5>
     <p class="card-text"> Buy some fresh fruits and vegetables from our store. <br>Get discounts. </p>
     <button type="submit" class="btn btn-info"> Fruits </button>
-    <input type="hidden" name="pro_name" value="Apple">
-    <input type="hidden" name="pro_price" value="100">
-    <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
 </form>
@@ -115,9 +112,6 @@ text-align: left;
   <h5 class"card-title text-center"> Milk  </h5>
     <p class="card-text"> Buy fresh and unadulterated milk from our store.<br> Get discounts. </p>
     <button type="submit" class="btn btn-info"> Milk </button>
-    <input type="hidden" name="pro_name" value="Apple">
-    <input type="hidden" name="pro_price" value="100">
-    <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
 </form>
@@ -131,9 +125,6 @@ text-align: left;
   <h5 class"card-title text-center"> Grains </h5>
     <p class="card-text"> Buy some grains from our store.<br> Get discounts. </p>
     <button type="submit" class="btn btn-info"> Grains </button>
-    <input type="hidden" name="pro_name" value="Apple">
-    <input type="hidden" name="pro_price" value="100">
-    <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
   </div>
 </div>
 </form>
@@ -148,10 +139,7 @@ text-align: left;
   <h5 class"card-title text-center"> Drinks </h5>
     <p class="card-text"> Buy soft and hard drinks from our store.<br> Get discounts. </p>
     <button type="submit" class="btn btn-info"> Drinks </button>
-    <input type="hidden" name="pro_name" value="Apple">
-    <input type="hidden" name="pro_price" value="100">
-    <input type="hidden" name="address" value="..\hc_fruits&vegetables.php">
-  </div>
+    </div>
 </div>
 </form>
 </div>

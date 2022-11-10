@@ -91,7 +91,7 @@ Our website Minimalist Grocer is an online grocery store from which anyone can o
 <!--  <img class="card-img-top" src="images/fruit&vege.jpg" alt="Card image cap" width="500" height="150"> --!>
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Mr Bhaskar Kapri </h5>
-    <p class="card-text"> <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+    <p class="card-text"> <br> I have a drinking problem and always spend all my money in buying them. This website helps me save money on drinks. </p>
 
   </div>
 </div>
@@ -105,7 +105,7 @@ Our website Minimalist Grocer is an online grocery store from which anyone can o
 <!--  <img class="card-img-top" src="images/fruit&vege.jpg" alt="Card image cap" width="500" height="150"> --!>
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Mr Smit Kapani </h5>
-    <p class="card-text"> <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+    <p class="card-text"> <br> I always used to be in calroie defecit because I never bought groceries at time. This website helped be become leanest i have ever been.  </p>
 
   </div>
 </div>
@@ -117,7 +117,7 @@ Our website Minimalist Grocer is an online grocery store from which anyone can o
 <!--  <img class="card-img-top" src="images/fruit&vege.jpg" alt="Card image cap" width="500" height="150"> --!>
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Mr Jaswant Rajput </h5>
-    <p class="card-text"> <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+    <p class="card-text"> <br> My mother always used to beat me with chappal for not bringing groceries at time. This website really saved me.  </p>
 
   </div>
 </div>
@@ -129,11 +129,12 @@ Our website Minimalist Grocer is an online grocery store from which anyone can o
 <!--  <img class="card-img-top" src="images/fruit&vege.jpg" alt="Card image cap" width="500" height="150"> --!>
   <div class="card-body text-center">
   <h5 class"card-title text-center"> Mr Aditya Sakpal </h5>
-    <p class="card-text"> <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
+    <p class="card-text"> <br> Being a yoga enthuiast I always find it difficult to find good quality vegan food. Now I dont have to search for my bland food. </p>
 
   </div>
 </div>
 </div>
+
 
 
 </div>
